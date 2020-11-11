@@ -1,5 +1,5 @@
 # Opencore-Asus-Ux510ux
-Asus Zenbook Ux510ux (https://github.com/nlg96/Opencore-Asus-Ux510ux/releases)
+Download (https://github.com/nlg96/Opencore-Asus-Ux510ux/releases)
 
 Được tạo dựa trên repo Hackintosh for Zenbook của Hieplpvip (https://github.com/hieplpvip/Asus-Zenbook-Hackintosh)
 # Step 1: Clone this repo
