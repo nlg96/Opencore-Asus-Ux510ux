@@ -1,26 +1,15 @@
 # Opencore-Asus-Ux510ux
-Download (https://github.com/nlg96/Opencore-Asus-Ux510ux/releases)
+
 
 Được tạo dựa trên repo Hackintosh for Zenbook của Hieplpvip (https://github.com/hieplpvip/Asus-Zenbook-Hackintosh)
-# Step 1: Clone this repo
-Open Terminal:
-```shell
-git clone https://github.com/hieplpvip/Asus-Zenbook-Hackintosh zenbook
-cd zenbook
-```
+# Step 1: Making the installer
+https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos
 
-(Wait for Install Xcode >> Enter again to cd zenbook)
-# Step 2: Download
-Download necessary kexts and drivers:
+# Step 2: Making the EFI
+Download (https://github.com/nlg96/Opencore-Asus-Ux510ux/releases
 
-```shell
-./download.sh
-```
-Open Finder: Go to foder: User and find zenbook folder
+( EFI only for Catalina. Must update AirportItlwm when you instal other MacOS)
 
-# Step 3: Building EFI folder
-
-- Build EFI folder:
-```shell
-./build.sh
-```
+Generate a new Serial (https://github.com/corpnewt/GenSMBIOS)
+# Step 3: Instal
+Enjoin!!!!!!
